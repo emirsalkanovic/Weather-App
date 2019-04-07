@@ -76,6 +76,7 @@ h5, h3 {
 .bg {
     position: absolute;
     background-image: url(../img/bg.jpg);
+    background-size: cover;
     opacity: 0.4;
     z-index: -1;
     top: 0;
