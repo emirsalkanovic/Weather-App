@@ -15,7 +15,7 @@ p {
 
 .main-content {
     flex-grow: 1;
-    min-height: 80vh;
+    min-height: 100vh;
     z-index: 1;
     position: relative;
 }
@@ -76,7 +76,6 @@ h5, h3 {
 .bg {
     position: absolute;
     background-image: url(../img/bg.jpg);
-    background-size: cover;
     opacity: 0.4;
     z-index: -1;
     top: 0;
